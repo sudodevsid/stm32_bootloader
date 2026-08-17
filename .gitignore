@@ -1,0 +1,4 @@
+node_modules/
+.env
+firmware/latest.bin
+firmware/metadata.json
