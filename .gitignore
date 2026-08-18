@@ -1,4 +1,7 @@
 node_modules/
 .env
 firmware/latest.bin
+firmware/latest.hex
+firmware/app.bin
+firmware/manifest.txt
 firmware/metadata.json
